@@ -1,0 +1,20 @@
+{
+  "token": "NjY4ODg0Nzk3MzYzNDU0MDIz.Xnns7A.ziLa52qwcRBIRvDXzFDAnarAmGw",
+  "prefix": "!",
+  "name": "DiscordTickets",
+  "guildID": "661635450267500544",
+  "supportRole": "661636113072390184",
+  "ticketsCat": "661637685391130642",
+  "logChannel": "691976597229535260",
+  "colour": "#009999",
+  "playing": "CloudLabs Bot",
+  "activityType": "PLAYING",
+  "status": "ONLINE",
+  "useEmbeds": true,
+  "logDMs": false,
+  "cooldown": 3,
+  "ticketImage": false,
+  "tagHereOnly": false,
+  "ticketText": "אנו נענה בהקדם האפשרי ,CloudLabsתודה שבחרתם ב",
+  "debugLevel": 0
+}
